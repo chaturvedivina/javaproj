@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mannu
+ *
+ */
+module javaproj {
+}
